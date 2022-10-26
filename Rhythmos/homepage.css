@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+body{
+    
+    color: white;
+    background: url("https://res.cloudinary.com/dkfa6gg2d/image/upload/v1666535572/Game%20folder/background1_wqsh6q.jpg");
+    background-size: cover;
+    
+}
+/* title of the page */
+.main{
+    font-family: AKRONIM REGULAR;
+    font-size: 120px;
+    text-align: center;
+    margin-top: 15px;
+    color: white;
+}
+
+/* tagline design */
+h3{
+    /* font-style: italic; */
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    font-family: 'Fredoka One', cursive;
+}
+
+.logo{
+    
+}

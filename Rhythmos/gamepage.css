@@ -1,0 +1,15 @@
+body{
+    
+    color: white;
+    background: url("https://res.cloudinary.com/dkfa6gg2d/image/upload/v1666747563/Game%20folder/2645945_ecbrqs.jpg");
+    background-size: cover;
+    
+}
+/* title of the page */
+.main{
+    font-family: AKRONIM REGULAR;
+    font-size: 120px;
+    text-align: center;
+    
+    color: white;
+}
